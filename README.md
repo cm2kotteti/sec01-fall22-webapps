@@ -1,2 +1,3 @@
 # sec01-fall22-webapps
-This is repo for demo apps.
+
+We are learning Git tutorial in class.
