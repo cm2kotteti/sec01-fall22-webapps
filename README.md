@@ -60,3 +60,33 @@ def sumIt (n):
 8. Come home
 7. After coming home
 71. And this should be the final line.
+
+---
+
+Lets do a search [Google](https://www.google.com)
+
+Or go to another markdown **[page](second.md)** local to the repo.
+
+Lets go to amazon <https://www.amazon.com> 
+
+![Home](image.jpeg "hall")
+
+I want to ride the merry*go*round is different to the merry\*go\*round.
+
+This is a truth table
+
+| P   | Q   | P and Q |
+| --- | --- | :-----: |
+| T   | T   |    T    |
+| T   | F   |    F    |
+| F   | T   |    F    |
+| F   | F   |    F    |
+
+- [ ] item 1
+- [x] item 2 (it’s done!)
+- [ ] item 3
+- [x] item 4 (yay it's done)
+
+~~Opps, didn’t mean to do this.~~
+
+The function is $f(x) = x^2$.
