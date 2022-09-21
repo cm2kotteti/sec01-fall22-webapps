@@ -1,0 +1,45 @@
+h3 {
+  font-family: "Courier New", Courier, monospace;
+  color: green;
+  font-size: larger;
+}
+
+#box-office {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: brown;
+}
+
+#table-item {
+  color: darksalmon;
+  font-size: smaller;
+}
+
+.table-row {
+  color: crimson;
+}
+
+body {
+  background-image: url(/image.jpeg);
+}
+
+.third {
+  background-color: burlywood;
+}
+
+p {
+  border-style: dashed dotted solid none;
+}
+
+#ordered-list {
+  list-style-type: upper-alpha;
+  list-style-position: inside;
+}
+
+table {
+  border: dashed 3px red;
+  border-collapse: separate;
+}
+
+tr:nth-child(even){
+    color: black;
+}
